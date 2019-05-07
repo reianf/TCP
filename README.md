@@ -10,4 +10,3 @@ The client will then display the converted message from the server.<br>
 Example input: <b>Hello World</b><br>
 Example output: <b>Ifmmp!Xpsme</b><br><br>
 Execution:<br>
-![image](/uploads/7ddea27337201e04f7f4ce6339ca58b6/image.png)
