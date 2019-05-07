@@ -3,7 +3,7 @@ For my Networks and Distributed Systems course, I implemented both a TCP server 
 <b>tcpserver.py</b><br>
 The server accepts a connection from a client and receives a text message of no more than 256
 characters. The server converts each character by replacing it with the next character in the ASCII sequence. 
-<br>
+<br><br>
 <b>tcpclient.py</b><br>
 The client connects to the server using the same port and passes the message to the server. 
 The client will then display the converted message from the server.<br>
