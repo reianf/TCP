@@ -6,7 +6,7 @@ characters. The server converts each character by replacing it with the next cha
 <br><br>
 <b>tcpclient.py</b><br>
 The client connects to the server using the same port and passes the message to the server. 
-The client will then display the converted message from the server.<br>
+The client will then display the converted message from the server.<br><br>
 Example input: <b>Hello World</b><br>
 Example output: <b>Ifmmp!Xpsme</b><br><br>
 Execution:<br>
